@@ -3,7 +3,7 @@
 Aplikasi Flutter mendapatkan dan menampilkan data dari API [RandomUser](https://randomuser.me/).
 
 ### Screenshot
-![Flutter Apps](https://res.cloudinary.com/alhanifdev/image/upload/c_scale,w_622/v1574268183/device-2019-11-20-234135_tlxb6q.png "source: flutterappdev.com")
+![Flutter Apps](https://res.cloudinary.com/alhanifdev/image/upload/c_scale,w_308/v1574268183/device-2019-11-20-234135_tlxb6q.png "source: flutterappdev.com")
 
 ### Built With
 - [Flutter](https://flutter.dev)
