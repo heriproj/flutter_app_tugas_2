@@ -1,5 +1,5 @@
 
-# Flutter Flutter Basic (Tugas 2)
+# Flutter Basic EUDEKA! OSG08 (Tugas 2)
 Aplikasi Sederhana dengan Tema Hari Kemerdekaan Indonesia (17an)
 
 ### Screenshot
