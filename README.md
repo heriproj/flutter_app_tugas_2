@@ -7,7 +7,7 @@ Aplikasi Sederhana dengan Tema Hari Kemerdekaan Indonesia (17an)
 
 ### Built With
 - [Flutter](https://flutter.dev)
-- [Randomuser](https://randomuser.me)
+- [Icon](https://www.flaticon.com/)
 
 ### Created By
 - [Heri Setiawan](https://github.com/heriproj)
