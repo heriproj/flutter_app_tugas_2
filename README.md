@@ -1,6 +1,6 @@
 
 # Flutter Flutter Basic (Tugas 2)
-Aplikasi Flutter mendapatkan dan menampilkan data dari API [RandomUser](https://randomuser.me/).
+Aplikasi Sederhana dengan Tema Hari Kemerdekaan Indonesia (17an)
 
 ### Screenshot
 ![Flutter Apps](https://res.cloudinary.com/alhanifdev/image/upload/c_scale,w_308/v1574268183/device-2019-11-20-234135_tlxb6q.png "source: flutterappdev.com")
@@ -10,7 +10,7 @@ Aplikasi Flutter mendapatkan dan menampilkan data dari API [RandomUser](https://
 - [Randomuser](https://randomuser.me)
 
 ### Created By
-- [Heri Setiawan](https://github.com/eudeka)
+- [Heri Setiawan](https://github.com/heriproj)
 
 ---
 
